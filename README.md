@@ -3,3 +3,5 @@
 Use-case таблица интернет магазина
 
 https://github.com/smirnyiy/SoftwareArchitecture8/blob/main/diagram1.jpg
+
+![Use-case таблица интернет магазина] (https://github.com/smirnyiy/SoftwareArchitecture8/blob/main/diagram1.jpg)
